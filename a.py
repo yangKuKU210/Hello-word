@@ -1,2 +1,2 @@
-print('aa')
-print('flower')
+print('wei')
+print('yang')
